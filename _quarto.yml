@@ -1,0 +1,26 @@
+
+project:
+  type: website
+
+website:
+  title: "LightHouse Analytics Kenya"
+  navbar:
+    right:
+      - text: About
+        href: about.qmd
+
+      - text: Our Approach
+        href: approach.qmd
+
+      - text: Digital Tools
+        href: digital_tools.qmd
+
+      - text: Market Intelligence
+        href: market_intelligence.qmd
+
+      - text: Geospatial Intelligence
+        href: geospatial_intelligence.qmd
+  page-footer:
+    center: "© 2025 LightHouse Analytics Kenya — Where insight becomes impact."
+
+

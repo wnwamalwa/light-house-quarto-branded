@@ -1,0 +1,56 @@
+{
+  "services.qmd": {
+    "services.html": "e4bdcc6e"
+  },
+  "about.qmd": {
+    "about.html": "4c7fcecd"
+  },
+  "case-studies.qmd": {
+    "case-studies.html": "13637cce"
+  },
+  "contact.qmd": {
+    "contact.html": "35d28be5"
+  },
+  "index.qmd": {
+    "index.html": "1c0de4a9"
+  },
+  "data-dashboards.qmd": {
+    "data-dashboards.html": "d5d68bf0"
+  },
+  "projects.qmd": {
+    "projects.html": "f53d5e96"
+  },
+  "approach.qmd": {
+    "approach.html": "12dd7296"
+  },
+  "digital_solutions.qmd": {
+    "digital_solutions.html": "5ae8e653"
+  },
+  "geospatial_intelligence.qmd": {
+    "geospatial_intelligence.html": "d100c898"
+  },
+  "market_intelligence.qmd": {
+    "market_intelligence.html": "38ed2f6e"
+  },
+  "2-digital_solutions.qmd": {
+    "2-digital_solutions.html": "5b3804d6"
+  },
+  "0-about.qmd": {
+    "0-about.html": "7d6b3b92"
+  },
+  "1-approach.qmd": {
+    "1-approach.html": "8bff802d"
+  },
+  "3-market_intelligence.qmd": {
+    "3-market_intelligence.html": "fa3380c0"
+  },
+  "4-geospatial_intelligence.qmd": {
+    "4-geospatial_intelligence.html": "e73844a5"
+  },
+  "0_about.qmd": {
+    "0_about.html": "e6a173c9"
+  },
+  "digital_tools.qmd": {
+    "digital_tools.html": "051ee786"
+  }
+}

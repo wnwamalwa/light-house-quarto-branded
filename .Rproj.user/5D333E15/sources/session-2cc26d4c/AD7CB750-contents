@@ -1,0 +1,106 @@
+---
+title: "About"
+format:
+  html:
+    theme: minty
+    toc: true
+    css: assets/css/styles.css
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+---
+
+<!-- Image Carousel with Navigation -->
+<div id="carouselExampleFade" class="carousel slide carousel-fade mb-4" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="assets/images/farm1.jpg" class="d-block w-100" alt="Farm 1">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/images/farm2.jpg" class="d-block w-100" alt="Farm 2">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/images/farm3.jpg" class="d-block w-100" alt="Farm 3">
+    </div>
+  </div>
+
+  <!-- Navigation buttons -->
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+
+  <!-- Indicators -->
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleFade" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleFade" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleFade" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+</div>
+
+<!-- Live Updates -->
+<div id="live-updates" class="alert alert-info" role="alert">
+  <strong>Update:</strong> <span id="update-text">Loading latest updates...</span>
+</div>
+
+<script>
+  const updates = [
+    "New rainfall forecast available for Bungoma County.",
+    "Maize prices updated for October 26th.",
+    "Partnership launched with Kenya Seed Company.",
+    "New crop suitability maps added for Western Kenya."
+  ];
+
+  let index = 0;
+  function rotateUpdates() {
+    document.getElementById("update-text").textContent = updates[index];
+    index = (index + 1) % updates.length;
+  }
+
+  rotateUpdates(); // initial
+  setInterval(rotateUpdates, 5000); // change every 5 seconds
+</script>
+
+# About Us
+
+We design adaptive, data-driven tools that empower farmers, cooperatives, and governments to build resilient agricultural systems.
+
+## Mission
+
+To equip farmers and agricultural networks with intelligent, locally grounded tools that drive productivity, sustainability, and inclusive growth.
+
+## Vision
+
+A thriving agricultural ecosystem where every decision—from farm to policy—is guided by real-time data, community intelligence, and regional relevance.
+
+## Core Values
+
+- **Farmer-Centered Design**: Prioritizing usability, accessibility, and impact at the farm level.  
+- **Evidence-Driven Innovation**: Evolving tools through data, feedback, and continuous learning.  
+- **Local Relevance**: Integrating indigenous knowledge, regional context, and stakeholder collaboration.  
+- **Transparency & Trust**: Building systems that are clear, accountable, and community-validated.  
+- **Scalable Impact**: Designing for growth and adaptability across all levels.
+
+## Our Approach
+
+### Farmer-Centered Tools
+
+Real-time price alerts, crop diagnostics, finance access, and peer networks help farmers make smarter decisions and collaborate effectively. Market tools like harvest forecasting and smart routing reduce waste and improve planning.
+
+### Market Intelligence
+
+For cooperatives and SACCOs, we offer credit scoring, yield forecasting, SMS updates, and localized research—amplifying impact through community feedback and adaptive systems.
+
+### Landscape Intelligence
+
+Geospatial tools support land use planning and investment decisions. Soil health maps, climate risk models, and disease detection evolve with satellite, drone, and farmer-reported data.
+
+## Summary
+
+From individual farms to national programs, our solutions combine real-time data, adaptive learning, and community intelligence to create a resilient, efficient, and farmer-centered agricultural ecosystem.

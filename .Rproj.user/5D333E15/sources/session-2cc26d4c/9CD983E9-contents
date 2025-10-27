@@ -1,0 +1,55 @@
+---
+title: "About" 
+format:
+  html:
+    theme: minty
+    toc: true
+    css: assets/css/styles.css
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+---
+
+## 🌱 Farmer-Centered Tools
+
+### <span class="fa-icon"><i class="fas fa-mobile-alt"></i></span> Mobile Services
+- **Price Alerts** — Real-time updates that learn from market behavior and farmer preferences.
+- **Weather Forecasts** — Hyperlocal predictions that adapt to shifting climate patterns and planting cycles.
+- **Crop Diagnosis** — AI models that improve with each image submitted, learning from local disease variants.
+
+### <span class="fa-icon"><i class="fas fa-database"></i></span> Farm Records & Finance
+- **Productivity Logs** — Personalized dashboards that adapt to each farmer’s cropping history and input use.
+- **Microfinance Access** — Credit scoring models that evolve based on repayment behavior and group dynamics.
+- **Community Sharing** — Peer networks that surface relevant tips based on location, crop, and season.
+
+---
+
+## 🧠  Market Intelligence
+
+### <span class="fa-icon"><i class="fas fa-users"></i></span> Group Intelligence
+- **Credit Scoring** — Adaptive models that incorporate behavioral nudges and repayment patterns.
+- **Yield Forecasting** — Group-level predictions that refine with each harvest and input cycle.
+- **SMS Nudges** — Messaging that evolves based on response rates and seasonal timing.
+
+### <span class="fa-icon"><i class="fas fa-flask"></i></span> Research & Trials
+- **AI Training** — Models that continuously learn from farmer-submitted data and extension feedback.
+- **Knowledge Digitization** — NLP systems that refine indigenous knowledge classification over time.
+- **Demand Mapping** — Urban consumption trends that adjust based on retail feedback and price shifts.
+- **Harvest Forecasting** — Models that improve with each season’s actual harvest data.
+
+---
+
+## 🗺️ Landscape Intelligence
+
+### <span class="fa-icon"><i class="fas fa-map-marked-alt"></i></span> Land & Climate Mapping
+- **Soil Health Zones** — Maps that refine nutrient profiles as new drone and satellite data is collected.
+- **Flood & Drought Risk** — Predictive layers that adjust based on rainfall anomalies and farmer-reported impacts.
+- **Crop Suitability Models** — Adaptive algorithms that learn from trial outcomes and yield data.
+
+### <span class="fa-icon"><i class="fas fa-truck"></i></span> Market Linkage & Logistics
+- **Smart Routing** — Transport plans that learn from delays, spoilage rates, and road conditions.
+- **Adaptive Trials** — Experimental designs that evolve based on zone-specific performance and farmer input.
+
+### <span class="fa-icon"><i class="fas fa-fish"></i></span> Livestock & Aquaculture
+- **Disease Detection** — AI that improves with local image/audio samples and vet feedback.
+- **IoT Monitoring** — Sensor systems that adjust thresholds based on historical water and growth data.

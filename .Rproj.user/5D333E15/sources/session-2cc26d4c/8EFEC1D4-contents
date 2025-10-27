@@ -1,0 +1,80 @@
+---
+title: "Digital Solutions for Farmers" 
+format:
+  html:
+    theme: minty
+    toc: true
+    css: assets/css/styles.css
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+---
+
+## 🌾 Overview
+
+Digital tools are transforming agriculture across Western Kenya. By combining mobile technology, AI, and data platforms, we empower farmers to make smarter decisions, reduce risk, and increase productivity.
+
+---
+
+## 📱 Mobile Apps for Farmers
+
+### <span class="fa-icon"><i class="fas fa-chart-line"></i></span> Market Price Alerts
+Real-time updates on commodity prices help farmers:
+- Choose optimal selling times
+- Avoid middlemen exploitation
+- Coordinate with cooperatives for bulk sales
+
+### <span class="fa-icon"><i class="fas fa-cloud-sun"></i></span> Weather Forecasts
+Hyperlocal forecasts enable:
+- Timely planting and harvesting
+- Risk reduction from floods or droughts
+- Planning irrigation and input use
+
+### <span class="fa-icon"><i class="fas fa-virus"></i></span> Crop Disease Detection
+AI-powered image recognition allows farmers to:
+- Snap photos of affected crops
+- Receive instant diagnosis and treatment tips
+- Share findings with extension officers
+
+---
+
+## 🧮 Farmer Data Platforms
+
+### <span class="fa-icon"><i class="fas fa-seedling"></i></span> Farm Productivity Tracking
+Track inputs, yields, and seasonal trends to:
+- Benchmark performance
+- Identify inefficiencies
+- Plan future investments
+
+### <span class="fa-icon"><i class="fas fa-hand-holding-usd"></i></span> Access to Financial Services
+Link farmers to:
+- Microfinance institutions
+- Crop insurance providers
+- Digital wallets and payment systems
+
+### <span class="fa-icon"><i class="fas fa-users"></i></span> Community Knowledge Sharing
+Enable peer-to-peer learning through:
+- Success stories and case studies
+- Localized best practices
+- Farmer forums and WhatsApp groups
+
+---
+
+## 🛠️ Technical Architecture (Optional Section)
+
+If you want to include backend details:
+- Built with Supabase for secure data storage
+- Shiny dashboards for real-time analytics
+- Leaflet maps for geospatial overlays
+- SQL views for lifecycle tracking and aggregation
+
+---
+
+## 🚀 What's Next?
+
+We’re expanding these tools to include:
+- Livestock health monitoring
+- Aquaculture sensors
+- AI-driven credit scoring for SACCOs
+
+Want to collaborate or pilot a solution in your county? [Contact us](mailto:info@lighthouseanalytics.ke)

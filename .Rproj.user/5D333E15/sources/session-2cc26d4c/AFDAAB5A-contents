@@ -1,0 +1,53 @@
+---
+title: "About" 
+format:
+  html:
+    theme: minty
+    toc: true
+    css: assets/css/styles.css
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+---
+
+# 🌱 Farmer-Centered Tools
+
+Our tools start at the farm level, empowering farmers and smallholder networks with adaptive, data-driven solutions:
+
+- **Price Alerts**, **Weather Forecasts**, and **Crop Diagnostics** use real-time data and AI to guide decisions based on local conditions.  
+- Platforms for **Farm Records** and **Finance Access** provide tailored insights linked to cropping patterns and repayment histories.  
+- **Peer-to-Peer Networks** foster collaboration and timely advice among farmers.  
+- Market-focused tools like **Harvest Forecasting**, **Demand Mapping**, and **Smart Routing** optimize aggregation, reduce waste, and respond to dynamic market conditions.  
+
+These tools enable governments, agricultural companies like Kenya Seed, and NGOs to design programs and interventions that are evidence-based and farmer-focused.  
+
+---
+
+# 🗺️ Landscape Intelligence
+
+At the regional scale, geospatial and sensor-driven tools support land use planning, resource allocation, and market linkages:
+
+- **Soil Health Mapping**, **Climate Risk Detection**, and **Crop Suitability Models** improve as satellite, drone, and farmer-reported data accumulate.  
+- **Disease Detection** and  **IoT Monitoring** leverage local samples and sensor feedback for timely interventions.  
+
+These insights help county and national governments, companies, and NGOs optimize policy, investments, and operational planning.  
+
+---
+
+# 🧠 Market Intelligence
+
+Group-level adaptive systems amplify impact across cooperatives, SACCOs, and extension networks:
+
+- **Credit Scoring** and **Yield Forecasting** evolve with repayment behavior and seasonal performance.  
+- **SMS Nudges** deliver relevant updates from government programs, cooperatives, and community initiatives.  
+- **Research & Trials** integrate indigenous knowledge, refine interventions across zones, and ensure innovations remain locally relevant and validated.  
+
+This intelligence supports governments and organizations in designing programs, monitoring outcomes, and scaling interventions efficiently.  
+
+---
+
+# 💡 Summary
+
+From individual farmers to regional landscapes, our solutions combine **real-time data**, **adaptive learning**, and **community intelligence** to create a resilient, efficient, and sustainable agricultural ecosystem.  
+
+We partner with **national and county governments, agricultural companies, and NGOs** to ensure interventions are evidence-driven, locally grounded, and impactful.  

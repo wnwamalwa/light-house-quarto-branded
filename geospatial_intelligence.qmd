@@ -1,0 +1,63 @@
+---
+title: "Geospatial Intelligence" 
+format:
+  html:
+    theme: minty
+    toc: true
+    css: assets/css/styles.css
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+---
+
+## Overview
+
+Geospatial intelligence combines satellite imagery, drone data, and AI-powered mapping to optimize land use, climate resilience, and crop targeting. In Western Kenya, this approach is especially powerful for region-specific crops like sugarcane, coffee, maize, beans, and bananas.
+
+---
+
+## Crop-Specific Applications
+
+### <span class="fa-icon"><i class="fas fa-cube"></i></span> Sugarcane
+- Map high-yield zones based on soil moisture and slope.
+- Monitor ratoon crop performance using NDVI time series.
+- Detect waterlogging and plan drainage interventions.
+
+### <span class="fa-icon"><i class="fas fa-mug-hot"></i></span> Coffee
+- Identify altitude bands optimal for Arabica cultivation.
+- Overlay shade tree coverage and pest risk zones.
+- Support certification (Rainforest Alliance, Fairtrade) with traceable maps.
+
+### <span class="fa-icon"><i class="fas fa-warehouse"></i></span> Maize
+- Predict drought stress using thermal and vegetation indices.
+- Guide fertilizer application via soil nutrient maps.
+- Track seasonal yield variation across counties.
+
+### <span class="fa-icon"><i class="fas fa-seedling"></i></span> Beans & Pulses
+- Cluster agroecological zones for intercropping strategies.
+- Detect pest hotspots using farmer-uploaded geotagged images.
+- Model rainfall reliability for short-cycle crops.
+
+### <span class="fa-icon"><i class="fas fa-apple-alt"></i></span> Bananas & Horticulture
+- Map irrigation potential using proximity to rivers and slope.
+- Detect disease spread (e.g., banana wilt) via drone imagery.
+- Plan cold chain logistics from farm to market.
+
+---
+
+## Strategic Partnerships
+
+### <span class="fa-icon"><i class="fas fa-seedling"></i></span> Kenya Seed Company
+- Target seed varieties to optimal zones using soil and climate data.
+- Support demo plots and monitor performance via satellite.
+- Map seed distribution networks and overlay farmer adoption rates.
+
+### <span class="fa-icon"><i class="fas fa-industry"></i></span> Village Industrial (VI)
+- Identify strategic locations for VI-supported aggregation hubs.
+- Optimize supply chains with route analytics and cold chain planning.
+- Empower youth-led drone teams for aerial data collection and analysis.
+
+---
+
+
+[Reach out](mailto:info@lighthouseanalytics.ke)

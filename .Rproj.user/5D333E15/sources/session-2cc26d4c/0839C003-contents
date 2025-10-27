@@ -1,0 +1,99 @@
+---
+title: "Market Intelligence" 
+format:
+  html:
+    theme: minty
+    toc: true
+    css: assets/css/styles.css
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+---
+
+## 📈 Overview
+
+Market intelligence transforms raw agricultural data into actionable insights. By combining AI, mobile platforms, and predictive analytics, we help farmers, cooperatives, and SACCOs in Western Kenya understand pricing trends, buyer demand, and trade opportunities—locally and regionally.
+
+---
+
+## 🧠 Core Features
+
+### <span class="fa-icon"><i class="fas fa-chart-line"></i></span> Real-Time Price Tracking
+- Monitor commodity prices across major markets (Eldoret, Kisumu, Nairobi).
+- Compare farm-gate vs. wholesale vs. retail prices.
+- Alert farmers when prices hit profitable thresholds.
+
+### <span class="fa-icon"><i class="fas fa-balance-scale"></i></span> Demand Forecasting
+- Use historical sales and weather data to predict demand for maize, beans, bananas, and sugarcane.
+- Guide planting decisions based on projected market gaps.
+- Help cooperatives plan aggregation and storage.
+
+### <span class="fa-icon"><i class="fas fa-truck-loading"></i></span> Logistics Optimization
+- Recommend transport routes based on road conditions and market timing.
+- Reduce post-harvest losses with smart dispatch planning.
+- Integrate with SACCO-owned vehicles and aggregation centers.
+
+---
+
+## 🌾 Crop-Specific Insights
+
+### 🌽 Maize
+- Track miller demand and seasonal price spikes.
+- Identify surplus zones and link to deficit counties.
+
+### 🫘 Beans & Pulses
+- Forecast urban demand during school terms and festive seasons.
+- Recommend inter-county trade routes.
+
+### 🍌 Bananas & Horticulture
+- Monitor perishability windows and cold chain needs.
+- Match supply with urban retailers and export buyers.
+
+### 🍬 Sugarcane
+- Analyze factory intake schedules and cane maturity zones.
+- Support contract farming with price transparency.
+
+---
+
+## 🔗 Market Data Sources
+
+### <span class="fa-icon"><i class="fas fa-link"></i></span> [KAMIS – Kenya Agricultural Market Information System](https://kamis.kilimo.go.ke/site/market)
+- Daily wholesale and retail prices for key crops
+- Market-specific data from across Kenya
+
+### <span class="fa-icon"><i class="fas fa-chart-bar"></i></span> [KOMEX – Kenya Commodity Exchange Analytics](https://analytics.komex.co.ke/)
+- Price trends, volumes, and trade recommendations
+- Covers maize, beans, rice, wheat, and pulses
+
+---
+
+## 🤝 Strategic Partnerships
+
+### <span class="fa-icon"><i class="fas fa-building"></i></span> Kenya National Bureau of Statistics (KNBS)
+- Integrate market data feeds for price validation and policy support.
+
+### <span class="fa-icon"><i class="fas fa-network-wired"></i></span> County Governments
+- Co-develop dashboards for trade planning and subsidy targeting.
+
+### <span class="fa-icon"><i class="fas fa-store"></i></span> Farmer Cooperatives & SACCOs
+- Share insights via WhatsApp, SMS, and dashboards.
+- Train members to interpret trends and negotiate better deals.
+
+---
+
+## 🛠️ Technical Stack
+
+- **Data Sources**: KNBS, FAO, market boards, mobile surveys
+- **Tools**: Supabase, Shiny, SQL, R, Python
+- **Models**: Time series forecasting, anomaly detection, price elasticity modeling
+
+---
+
+## 🚀 What's Next?
+
+We’re building a regional market intelligence dashboard with:
+- Interactive price maps
+- Demand heatmaps by crop and county
+- Alerts for price volatility and trade opportunities
+
+Want to pilot this in your cooperative or county? [Contact us](mailto:info@lighthouseanalytics.ke)

@@ -1,0 +1,81 @@
+---
+title: "Our Approach" 
+format:
+  html:
+    theme: minty
+    toc: true
+    css: assets/css/styles.css
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+---
+
+<section id="digital-solutions">
+## 🌾 Digital Solutions for Farmers
+
+### <span class="fa-icon"><i class="fas fa-mobile-alt"></i></span> Mobile Apps for Farmers
+- <span class="fa-icon"><i class="fas fa-chart-line"></i></span> **Market Price Alerts** — Real-time commodity pricing to guide selling decisions.
+- <span class="fa-icon"><i class="fas fa-cloud-sun"></i></span> **Weather Forecasts** — Hyperlocal predictions to optimize planting and harvesting.
+- <span class="fa-icon"><i class="fas fa-virus"></i></span> **Crop Disease Detection** — AI-powered image recognition for early intervention.
+
+### <span class="fa-icon"><i class="fas fa-database"></i></span> Farmer Data Platforms
+- <span class="fa-icon"><i class="fas fa-seedling"></i></span> **Farm Productivity Tracking** — Monitor yields, inputs, and seasonal trends.
+- <span class="fa-icon"><i class="fas fa-hand-holding-usd"></i></span> **Access to Financial Services** — Connect with microfinance and insurance providers.
+- <span class="fa-icon"><i class="fas fa-users"></i></span> **Community Knowledge Sharing** — Share best practices and success stories across networks.
+</section>
+
+---
+
+<section id="geospatial-intelligence">
+## 🗺️ Geospatial Intelligence
+
+### <span class="fa-icon"><i class="fas fa-map-marked-alt"></i></span> Land & Resource Optimization
+- Soil health mapping using satellite and drone data.
+- Flood/drought risk detection for climate resilience.
+- Land suitability modeling for crop rotation and expansion.
+</section>
+
+---
+
+<section id="supply-chain">
+## 🚚 Supply Chain & Market Linkage
+
+### <span class="fa-icon"><i class="fas fa-truck"></i></span> AI-Powered Logistics
+- Predict harvest windows and optimize transport routes.
+- Forecast urban demand to reduce market gluts.
+- Smart aggregation centers with sensor-based inventory tracking.
+</section>
+
+---
+
+<section id="cooperative-intelligence">
+## 🧠 Cooperative Intelligence
+
+### <span class="fa-icon"><i class="fas fa-handshake"></i></span> Empowering Farmer Groups
+- AI-driven credit scoring for SACCOs and cooperatives.
+- Group-based yield prediction for collective bargaining.
+- Behavioral nudges via SMS/WhatsApp for timely action.
+</section>
+
+---
+
+<section id="livestock-aquaculture">
+## 🐄 Livestock & Aquaculture
+
+### <span class="fa-icon"><i class="fas fa-fish"></i></span> Smart Monitoring
+- Image/audio recognition for livestock disease detection.
+- IoT sensors for water quality and fish growth in aquaculture.
+</section>
+
+---
+
+<section id="research-extension">
+## 🧪 Research & Extension Support
+
+### <span class="fa-icon"><i class="fas fa-flask"></i></span> Data-Driven Innovation
+- Train AI models on local crop disease datasets.
+- Digitize indigenous knowledge using NLP.
+- Adaptive trials to evaluate interventions across zones.
+</section>
+
+---

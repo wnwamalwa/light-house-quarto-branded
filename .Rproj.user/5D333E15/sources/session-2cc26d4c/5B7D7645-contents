@@ -1,0 +1,105 @@
+
+:root {
+  --navy: #0b2545;
+  --cyan: #00bcd4;
+  --text: #0b2545;
+  --text-dark: #ffffff;
+  --background-light: #ffffff;
+  --background-dark: #021427;
+}
+
+body {
+  font-family: 'Inter', Arial, sans-serif;
+  margin:0; padding:0;
+  background-color: var(--background-light);
+  color: var(--text);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+@media (prefers-color-scheme: dark){
+  body {
+    background-color: var(--background-dark);
+    color: var(--text-dark);
+  }
+}
+
+/* Navbar */
+.q-nav{
+  background: linear-gradient(90deg, rgba(11,37,69,0.98), rgba(3,22,45,0.95));
+  color: white;
+  position: sticky;
+  top:0;
+  z-index: 999;
+  box-shadow: 0 2px 8px rgba(3,22,45,0.12);
+}
+.q-nav a, .q-nav .brand{
+  color: white;
+  text-decoration: none;
+}
+
+/* Hero */
+.hero{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding: 80px 20px;
+  min-height: 420px;
+  background-image: url('/assets/img/geo-pattern.svg');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-align: center;
+}
+.hero .headline{
+  font-size: clamp(28px, 4.5vw, 48px);
+  font-weight: 700;
+  margin: 0 0 16px 0;
+  line-height: 1.05;
+  text-shadow: 0 6px 24px rgba(0,0,0,0.35);
+}
+.hero .sub{
+  font-size: 18px;
+  opacity: 0.95;
+  margin-bottom: 24px;
+}
+.cta{
+  display:inline-block;
+  padding: 12px 22px;
+  border-radius: 8px;
+  background: var(--cyan);
+  color: #042033;
+  font-weight: 600;
+  text-decoration:none;
+}
+
+/* Sections */
+.section{
+  padding: 48px 20px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.cards{
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 18px;
+}
+.card{
+  background: white;
+  border-radius: 10px;
+  padding: 18px;
+  box-shadow: 0 6px 20px rgba(11,37,69,0.06);
+}
+
+/* Footer */
+footer{
+  background: var(--navy);
+  color: #9fb9c4;
+  padding: 28px 20px;
+  text-align:center;
+}
+
+/* Responsive */
+@media (max-width:720px){
+  .hero{ padding:60px 16px; min-height: 360px;}
+  .hero .headline{ font-size: 28px;}
+}

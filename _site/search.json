@@ -1,0 +1,534 @@
+[
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services",
+    "section": "",
+    "text": "Services\nPlaceholder content for services.qmd"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nPlaceholder content for contact.qmd"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "We design adaptive, data-driven tools that empower farmers, cooperatives, and governments to build resilient agricultural systems."
+  },
+  {
+    "objectID": "case-studies.html",
+    "href": "case-studies.html",
+    "title": "Case Studies",
+    "section": "",
+    "text": "Case Studies\nPlaceholder content for case-studies.qmd"
+  },
+  {
+    "objectID": "data-dashboards.html",
+    "href": "data-dashboards.html",
+    "title": "Data Dashboards",
+    "section": "",
+    "text": "Data Dashboards\nPlaceholder content for data-dashboards.qmd"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LightHouse Analytics Kenya",
+    "section": "",
+    "text": "&lt;div class=\"card-header bg-success text-white fw-bold text-center\"&gt;\n  🌿 Latest Updates\n&lt;/div&gt;\n&lt;div class=\"card-body\"&gt;\n  &lt;div id=\"update-rotator\" class=\"text-center fw-semibold\" style=\"min-height: 40px;\"&gt;\n    &lt;div class=\"update-item active\"&gt;🗺️ Crop suitability maps expanded for Western Kenya.&lt;/div&gt;\n    &lt;div class=\"update-item\"&gt;🌧️ Rainfall forecast updated for Bungoma County.&lt;/div&gt;\n    &lt;div class=\"update-item\"&gt;🌽 Maize prices refreshed for October 26th.&lt;/div&gt;\n    &lt;div class=\"update-item\"&gt;🤝 New partnership launched with Kenya Seed Company.&lt;/div&gt;\n  &lt;/div&gt;\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "At LightHouse Analytics Kenya, we transform data into actionable insights that drive impact. Explore our solutions tailored for businesses, policymakers, and development partners."
+  },
+  {
+    "objectID": "projects.html#our-approach",
+    "href": "projects.html#our-approach",
+    "title": "Projects",
+    "section": "",
+    "text": "At LightHouse Analytics Kenya, we transform data into actionable insights that drive impact. Explore our solutions tailored for businesses, policymakers, and development partners."
+  },
+  {
+    "objectID": "projects.html#data-analytics-visualization",
+    "href": "projects.html#data-analytics-visualization",
+    "title": "Projects",
+    "section": "Data Analytics & Visualization",
+    "text": "Data Analytics & Visualization\n\nInteractive dashboards for real-time insights\nPredictive modeling for future trends\nCustom reports for decision-making"
+  },
+  {
+    "objectID": "projects.html#policy-research-advisory",
+    "href": "projects.html#policy-research-advisory",
+    "title": "Projects",
+    "section": "Policy Research & Advisory",
+    "text": "Policy Research & Advisory\n\nEvidence-based policy briefs\nImpact evaluations for development programs\nEconomic modeling and forecasting"
+  },
+  {
+    "objectID": "projects.html#capacity-building",
+    "href": "projects.html#capacity-building",
+    "title": "Projects",
+    "section": "Capacity Building",
+    "text": "Capacity Building\n\nTraining on R, Python, and data tools\nWorkshops on data-driven decision-making\nMentorship for analytics teams"
+  },
+  {
+    "objectID": "projects.html#monitoring-evaluation",
+    "href": "projects.html#monitoring-evaluation",
+    "title": "Projects",
+    "section": "Monitoring & Evaluation",
+    "text": "Monitoring & Evaluation\n\nDesign of M&E frameworks\nReal-time tracking systems\nKPI dashboards for performance monitoring"
+  },
+  {
+    "objectID": "projects.html#digital-solutions-for-agriculture",
+    "href": "projects.html#digital-solutions-for-agriculture",
+    "title": "Projects",
+    "section": "Digital Solutions for Agriculture",
+    "text": "Digital Solutions for Agriculture\nWe develop innovative apps and platforms to empower farmers and agribusinesses:\n\nMobile Apps for Farmers\n\nMarket Price Alerts: Stay updated on commodity prices\nWeather Forecasts: Plan farming activities effectively\nCrop Disease Detection: AI-powered image recognition for early intervention"
+  },
+  {
+    "objectID": "approach.html",
+    "href": "approach.html",
+    "title": "About",
+    "section": "",
+    "text": "🌱 Farmer-Centered Tools\nOur tools start at the farm level, empowering farmers and smallholder networks with adaptive, data-driven solutions:\n\nPrice Alerts, Weather Forecasts, and Crop Diagnostics use real-time data and AI to guide decisions based on local conditions.\n\nPlatforms for Farm Records and Finance Access provide tailored insights linked to cropping patterns and repayment histories.\n\nPeer-to-Peer Networks foster collaboration and timely advice among farmers.\n\nMarket-focused tools like Harvest Forecasting, Demand Mapping, and Smart Routing optimize aggregation, reduce waste, and respond to dynamic market conditions.\n\nThese tools enable governments, agricultural companies like Kenya Seed, and NGOs to design programs and interventions that are evidence-based and farmer-focused.\n\n\n\n🧠 Market Intelligence\nGroup-level adaptive systems amplify impact across cooperatives, SACCOs, and extension networks:\n\nCredit Scoring and Yield Forecasting evolve with repayment behavior and seasonal performance.\n\nSMS Nudges deliver relevant updates from government programs, cooperatives, and community initiatives.\n\nResearch & Trials integrate indigenous knowledge, refine interventions across zones, and ensure innovations remain locally relevant and validated.\n\nThis intelligence supports governments and organizations in designing programs, monitoring outcomes, and scaling interventions efficiently.\n\n\n\n🗺️ Geospatial Intelligence\nAt the regional scale, geospatial and sensor-driven tools support land use planning, resource allocation, and market linkages:\n\nSoil Health Mapping, Climate Risk Detection, and Crop Suitability Models improve as satellite, drone, and farmer-reported data accumulate.\n\nDisease Detection and IoT Monitoring leverage local samples and sensor feedback for timely interventions.\n\nThese insights help county and national governments, companies, and NGOs optimize policy, investments, and operational planning.\n\n\n\n💡 Summary\nFrom individual farmers to regional landscapes, our solutions combine real-time data, adaptive learning, and community intelligence to create a resilient, efficient, and sustainable agricultural ecosystem.\nWe partner with national and county governments, agricultural companies, and NGOs to ensure interventions are evidence-driven, locally grounded, and impactful."
+  },
+  {
+    "objectID": "approach.html#data-analytics-visualization",
+    "href": "approach.html#data-analytics-visualization",
+    "title": "Our Approach",
+    "section": "Data Analytics & Visualization",
+    "text": "Data Analytics & Visualization\n\nInteractive dashboards for real-time insights\nPredictive modeling for future trends\nCustom reports for decision-making"
+  },
+  {
+    "objectID": "approach.html#policy-research-advisory",
+    "href": "approach.html#policy-research-advisory",
+    "title": "Our Approach",
+    "section": "Policy Research & Advisory",
+    "text": "Policy Research & Advisory\n\nEvidence-based policy briefs\nImpact evaluations for development programs\nEconomic modeling and forecasting"
+  },
+  {
+    "objectID": "approach.html#capacity-building",
+    "href": "approach.html#capacity-building",
+    "title": "Our Approach",
+    "section": "Capacity Building",
+    "text": "Capacity Building\n\nTraining on R, Python, and data tools\nWorkshops on data-driven decision-making\nMentorship for analytics teams"
+  },
+  {
+    "objectID": "approach.html#monitoring-evaluation",
+    "href": "approach.html#monitoring-evaluation",
+    "title": "Our Approach",
+    "section": "Monitoring & Evaluation",
+    "text": "Monitoring & Evaluation\n\nDesign of M&E frameworks\nReal-time tracking systems\nKPI dashboards for performance monitoring"
+  },
+  {
+    "objectID": "approach.html#digital-solutions-for-agriculture",
+    "href": "approach.html#digital-solutions-for-agriculture",
+    "title": "Our Approach",
+    "section": "Digital Solutions for Agriculture",
+    "text": "Digital Solutions for Agriculture\nWe develop innovative apps and platforms to empower farmers and agribusinesses:\n\nMobile Apps for Farmers\n\nMarket Price Alerts: Stay updated on commodity prices\nWeather Forecasts: Plan farming activities effectively\nCrop Disease Detection: AI-powered image recognition for early intervention\n\n\n\nFarmer Data Platforms\n\nFarm Productivity Tracking: Monitor yields and inputs\nAccess to Financial Services: Connect with microfinance and insurance\nCommunity Knowledge Sharing: Share best practices and success stories"
+  },
+  {
+    "objectID": "approach.html#our-mission",
+    "href": "approach.html#our-mission",
+    "title": "Our Approach",
+    "section": "",
+    "text": "At LightHouse Analytics Kenya, we empower citizens, policymakers, and development partners with actionable insights and digital tools. Our solutions span transparency, advisory services, and innovative technology."
+  },
+  {
+    "objectID": "approach.html#government-ngo-project-information",
+    "href": "approach.html#government-ngo-project-information",
+    "title": "Our Approach",
+    "section": "Government & NGO Project Information",
+    "text": "Government & NGO Project Information\nWe provide citizens with transparent and timely updates on: - Development Projects: Roads, schools, hospitals - Subsidy Programs: Fertilizer subsidy, seed distribution - Regulations & Advisories: Synthesized government development policies for easy understanding - NGO Initiatives: Community development and capacity-building programs\n\nWhy It Matters: Access to accurate information promotes accountability and informed decision-making."
+  },
+  {
+    "objectID": "approach.html#capacity-building-advisory",
+    "href": "approach.html#capacity-building-advisory",
+    "title": "Our Approach",
+    "section": "Capacity Building & Advisory",
+    "text": "Capacity Building & Advisory\nWe help organizations and governments strengthen their data and policy capabilities: - Training on R, Python, and data analytics tools - Synthesizing government development policies, regulations, and advisories - Workshops on evidence-based decision-making - Advisory services for NGOs and development partners —"
+  },
+  {
+    "objectID": "approach.html#why-choose-us",
+    "href": "approach.html#why-choose-us",
+    "title": "Our Approach",
+    "section": "Why Choose Us?",
+    "text": "Why Choose Us?\n\nTransparency: Reliable government and NGO project data\nInnovation: Cutting-edge digital tools for agriculture\nImpact: Solutions designed to improve livelihoods and governance"
+  },
+  {
+    "objectID": "approach.html#digital-solutions-for-farmers",
+    "href": "approach.html#digital-solutions-for-farmers",
+    "title": "Our Approach",
+    "section": "",
+    "text": "Market Price Alerts — Real-time commodity pricing to guide selling decisions.\n Weather Forecasts — Hyperlocal predictions to optimize planting and harvesting.\n Crop Disease Detection — AI-powered image recognition for early intervention.\n\n\n\n\n\n Farm Productivity Tracking — Monitor yields, inputs, and seasonal trends.\n Access to Financial Services — Connect with microfinance and insurance providers.\n Community Knowledge Sharing — Share best practices and success stories across networks."
+  },
+  {
+    "objectID": "approach.html#geospatial-intelligence",
+    "href": "approach.html#geospatial-intelligence",
+    "title": "Our Approach",
+    "section": "",
+    "text": "Soil health mapping using satellite and drone data.\nFlood/drought risk detection for climate resilience.\nLand suitability modeling for crop rotation and expansion."
+  },
+  {
+    "objectID": "approach.html#supply-chain-market-linkage",
+    "href": "approach.html#supply-chain-market-linkage",
+    "title": "Our Approach",
+    "section": "",
+    "text": "Predict harvest windows and optimize transport routes.\nForecast urban demand to reduce market gluts.\nSmart aggregation centers with sensor-based inventory tracking."
+  },
+  {
+    "objectID": "approach.html#cooperative-intelligence",
+    "href": "approach.html#cooperative-intelligence",
+    "title": "Our Approach",
+    "section": "",
+    "text": "AI-driven credit scoring for SACCOs and cooperatives.\nGroup-based yield prediction for collective bargaining.\nBehavioral nudges via SMS/WhatsApp for timely action."
+  },
+  {
+    "objectID": "approach.html#livestock-aquaculture",
+    "href": "approach.html#livestock-aquaculture",
+    "title": "Our Approach",
+    "section": "",
+    "text": "Image/audio recognition for livestock disease detection.\nIoT sensors for water quality and fish growth in aquaculture."
+  },
+  {
+    "objectID": "approach.html#research-extension-support",
+    "href": "approach.html#research-extension-support",
+    "title": "Our Approach",
+    "section": "",
+    "text": "Train AI models on local crop disease datasets.\nDigitize indigenous knowledge using NLP.\nAdaptive trials to evaluate interventions across zones."
+  },
+  {
+    "objectID": "approach.html#next-steps",
+    "href": "approach.html#next-steps",
+    "title": "Our Approach",
+    "section": "📈 Next Steps",
+    "text": "📈 Next Steps\nWould you like to turn this into a live dashboard, interactive Shiny app, or infographic series? I can help you architect the next layer."
+  },
+  {
+    "objectID": "digital_solutions.html",
+    "href": "digital_solutions.html",
+    "title": "Digital Tools",
+    "section": "",
+    "text": "Digital tools are transforming agriculture across Western Kenya. By combining mobile technology, AI, and data platforms, we empower farmers to make smarter decisions, reduce risk, and increase productivity."
+  },
+  {
+    "objectID": "digital_solutions.html#overview",
+    "href": "digital_solutions.html#overview",
+    "title": "Digital Tools",
+    "section": "",
+    "text": "Digital tools are transforming agriculture across Western Kenya. By combining mobile technology, AI, and data platforms, we empower farmers to make smarter decisions, reduce risk, and increase productivity."
+  },
+  {
+    "objectID": "digital_solutions.html#mobile-apps-for-farmers",
+    "href": "digital_solutions.html#mobile-apps-for-farmers",
+    "title": "Digital Tools",
+    "section": "📱 Mobile Apps for Farmers",
+    "text": "📱 Mobile Apps for Farmers\n\n Market Price Alerts\nReal-time updates on commodity prices help farmers: - Choose optimal selling times - Avoid middlemen exploitation - Coordinate with cooperatives for bulk sales\n\n\n Weather Forecasts\nHyperlocal forecasts enable: - Timely planting and harvesting - Risk reduction from floods or droughts - Planning irrigation and input use\n\n\n Crop Disease Detection\nAI-powered image recognition allows farmers to: - Snap photos of affected crops - Receive instant diagnosis and treatment tips - Share findings with extension officers"
+  },
+  {
+    "objectID": "digital_solutions.html#farmer-data-platforms",
+    "href": "digital_solutions.html#farmer-data-platforms",
+    "title": "Digital Tools",
+    "section": "🧮 Farmer Data Platforms",
+    "text": "🧮 Farmer Data Platforms\n\n Farm Productivity Tracking\nTrack inputs, yields, and seasonal trends to: - Benchmark performance - Identify inefficiencies - Plan future investments\n\n\n Access to Financial Services\nLink farmers to: - Microfinance institutions - Crop insurance providers - Digital wallets and payment systems\n\n\n Community Knowledge Sharing\nEnable peer-to-peer learning through: - Success stories and case studies - Localized best practices - Farmer forums and WhatsApp groups\n\nContact us"
+  },
+  {
+    "objectID": "digital_solutions.html#technical-architecture-optional-section",
+    "href": "digital_solutions.html#technical-architecture-optional-section",
+    "title": "Digital Solutions for Farmers",
+    "section": "🛠️ Technical Architecture (Optional Section)",
+    "text": "🛠️ Technical Architecture (Optional Section)\nIf you want to include backend details: - Built with Supabase for secure data storage - Shiny dashboards for real-time analytics - Leaflet maps for geospatial overlays - SQL views for lifecycle tracking and aggregation"
+  },
+  {
+    "objectID": "digital_solutions.html#whats-next",
+    "href": "digital_solutions.html#whats-next",
+    "title": "Digital Solutions for Farmers",
+    "section": "🚀 What’s Next?",
+    "text": "🚀 What’s Next?\nWe’re expanding these tools to include: - Livestock health monitoring - Aquaculture sensors - AI-driven credit scoring for SACCOs\nWant to collaborate or pilot a solution in your county? Contact us"
+  },
+  {
+    "objectID": "geospatial_intelligence.html",
+    "href": "geospatial_intelligence.html",
+    "title": "Geospatial Intelligence",
+    "section": "",
+    "text": "Geospatial intelligence combines satellite imagery, drone data, and AI-powered mapping to optimize land use, climate resilience, and crop targeting. In Western Kenya, this approach is especially powerful for region-specific crops like sugarcane, coffee, maize, beans, and bananas."
+  },
+  {
+    "objectID": "geospatial_intelligence.html#overview",
+    "href": "geospatial_intelligence.html#overview",
+    "title": "Geospatial Intelligence",
+    "section": "",
+    "text": "Geospatial intelligence combines satellite imagery, drone data, and AI-powered mapping to optimize land use, climate resilience, and crop targeting. In Western Kenya, this approach is especially powerful for region-specific crops like sugarcane, coffee, maize, beans, and bananas."
+  },
+  {
+    "objectID": "geospatial_intelligence.html#crop-specific-applications",
+    "href": "geospatial_intelligence.html#crop-specific-applications",
+    "title": "Geospatial Intelligence",
+    "section": "Crop-Specific Applications",
+    "text": "Crop-Specific Applications\n\n Sugarcane\n\nMap high-yield zones based on soil moisture and slope.\nMonitor ratoon crop performance using NDVI time series.\nDetect waterlogging and plan drainage interventions.\n\n\n\n Coffee\n\nIdentify altitude bands optimal for Arabica cultivation.\nOverlay shade tree coverage and pest risk zones.\nSupport certification (Rainforest Alliance, Fairtrade) with traceable maps.\n\n\n\n Maize\n\nPredict drought stress using thermal and vegetation indices.\nGuide fertilizer application via soil nutrient maps.\nTrack seasonal yield variation across counties.\n\n\n\n Beans & Pulses\n\nCluster agroecological zones for intercropping strategies.\nDetect pest hotspots using farmer-uploaded geotagged images.\nModel rainfall reliability for short-cycle crops.\n\n\n\n Bananas & Horticulture\n\nMap irrigation potential using proximity to rivers and slope.\nDetect disease spread (e.g., banana wilt) via drone imagery.\nPlan cold chain logistics from farm to market."
+  },
+  {
+    "objectID": "geospatial_intelligence.html#strategic-partnerships",
+    "href": "geospatial_intelligence.html#strategic-partnerships",
+    "title": "Geospatial Intelligence",
+    "section": "Strategic Partnerships",
+    "text": "Strategic Partnerships\n\n Kenya Seed Company\n\nTarget seed varieties to optimal zones using soil and climate data.\nSupport demo plots and monitor performance via satellite.\nMap seed distribution networks and overlay farmer adoption rates.\n\n\n\n Village Industrial (VI)\n\nIdentify strategic locations for VI-supported aggregation hubs.\nOptimize supply chains with route analytics and cold chain planning.\nEmpower youth-led drone teams for aerial data collection and analysis.\n\n\nReach out"
+  },
+  {
+    "objectID": "geospatial_intelligence.html#technical-stack",
+    "href": "geospatial_intelligence.html#technical-stack",
+    "title": "Geospatial Intelligence",
+    "section": "🛠️ Technical Stack",
+    "text": "🛠️ Technical Stack\n\nData Sources: Sentinel-2, Landsat, FAO soil grids, OpenStreetMap\nTools: QGIS, Leaflet, Google Earth Engine, Supabase\nModels: Random Forest for land classification, K-means for clustering zones"
+  },
+  {
+    "objectID": "geospatial_intelligence.html#dashboard-features",
+    "href": "geospatial_intelligence.html#dashboard-features",
+    "title": "Geospatial Intelligence",
+    "section": "📊 Dashboard Features",
+    "text": "📊 Dashboard Features\n\nInteractive crop zone maps with filters by county and crop type\nSoil health overlays and climate risk layers\nExportable reports for cooperatives and extension officers"
+  },
+  {
+    "objectID": "geospatial_intelligence.html#regional-impact",
+    "href": "geospatial_intelligence.html#regional-impact",
+    "title": "Geospatial Intelligence",
+    "section": "🌍 Regional Impact",
+    "text": "🌍 Regional Impact\n\nPilots in Bungoma (sugarcane), Kisii (bananas), and Vihiga (beans)\nYouth-led drone mapping teams and SACCO partnerships\nTraining modules for cooperatives on map interpretation\n\n\nReach out"
+  },
+  {
+    "objectID": "geospatial_intelligence.html#whats-next",
+    "href": "geospatial_intelligence.html#whats-next",
+    "title": "Geospatial Intelligence",
+    "section": "🚀 What’s Next?",
+    "text": "🚀 What’s Next?\nWe’re building a modular geospatial dashboard with: - Real-time satellite updates - Farmer-uploaded geotagged photos - AI-driven alerts for crop stress and weather anomalies\nWant to co-design a crop-specific map layer or test the dashboard in your region? Reach out"
+  },
+  {
+    "objectID": "market_intelligence.html",
+    "href": "market_intelligence.html",
+    "title": "Market Intelligence",
+    "section": "",
+    "text": "Market intelligence transforms raw agricultural data into actionable insights. By combining AI, mobile platforms, and predictive analytics, we help farmers, cooperatives, and SACCOs in Western Kenya understand pricing trends, buyer demand, and trade opportunities—locally and regionally."
+  },
+  {
+    "objectID": "market_intelligence.html#overview",
+    "href": "market_intelligence.html#overview",
+    "title": "Market Intelligence",
+    "section": "",
+    "text": "Market intelligence transforms raw agricultural data into actionable insights. By combining AI, mobile platforms, and predictive analytics, we help farmers, cooperatives, and SACCOs in Western Kenya understand pricing trends, buyer demand, and trade opportunities—locally and regionally."
+  },
+  {
+    "objectID": "market_intelligence.html#core-features",
+    "href": "market_intelligence.html#core-features",
+    "title": "Market Intelligence",
+    "section": "Core Features",
+    "text": "Core Features\n\n Real-Time Price Tracking\n\nMonitor commodity prices across major markets (Eldoret, Kisumu, Nairobi).\nCompare farm-gate vs. wholesale vs. retail prices.\nAlert farmers when prices hit profitable thresholds.\n\n\n\n Demand Forecasting\n\nUse historical sales and weather data to predict demand for maize, beans, bananas, and sugarcane.\nGuide planting decisions based on projected market gaps.\nHelp cooperatives plan aggregation and storage.\n\n\n\n Logistics Optimization\n\nRecommend transport routes based on road conditions and market timing.\nReduce post-harvest losses with smart dispatch planning.\nIntegrate with SACCO-owned vehicles and aggregation centers."
+  },
+  {
+    "objectID": "market_intelligence.html#crop-specific-insights",
+    "href": "market_intelligence.html#crop-specific-insights",
+    "title": "Market Intelligence",
+    "section": "🌾 Crop-Specific Insights",
+    "text": "🌾 Crop-Specific Insights\n\nMaize\n\nTrack miller demand and seasonal price spikes.\nIdentify surplus zones and link to deficit counties.\n\n\n\nBeans & Pulses\n\nForecast urban demand during school terms and festive seasons.\nRecommend inter-county trade routes.\n\n\n\nBananas & Horticulture\n\nMonitor perishability windows and cold chain needs.\nMatch supply with urban retailers and export buyers.\n\n\n\nSugarcane\n\nAnalyze factory intake schedules and cane maturity zones.\nSupport contract farming with price transparency."
+  },
+  {
+    "objectID": "market_intelligence.html#market-data-sources",
+    "href": "market_intelligence.html#market-data-sources",
+    "title": "Market Intelligence",
+    "section": "🔗 Market Data Sources",
+    "text": "🔗 Market Data Sources\n\n KAMIS – Kenya Agricultural Market Information System\n\nDaily wholesale and retail prices for key crops\nMarket-specific data from across Kenya\n\n\n\n KOMEX – Kenya Commodity Exchange Analytics\n\nPrice trends, volumes, and trade recommendations\nCovers maize, beans, rice, wheat, and pulses"
+  },
+  {
+    "objectID": "market_intelligence.html#strategic-partnerships",
+    "href": "market_intelligence.html#strategic-partnerships",
+    "title": "Market Intelligence",
+    "section": "🤝 Strategic Partnerships",
+    "text": "🤝 Strategic Partnerships\n\n Kenya National Bureau of Statistics (KNBS)\n\nIntegrate market data feeds for price validation and policy support.\n\n\n\n County Governments\n\nCo-develop dashboards for trade planning and subsidy targeting.\n\n\n\n Farmer Cooperatives & SACCOs\n\nShare insights via WhatsApp, SMS, and dashboards.\nTrain members to interpret trends and negotiate better deals.\n\n\nContact us"
+  },
+  {
+    "objectID": "market_intelligence.html#technical-stack",
+    "href": "market_intelligence.html#technical-stack",
+    "title": "Market Intelligence",
+    "section": "🛠️ Technical Stack",
+    "text": "🛠️ Technical Stack\n\nData Sources: KNBS, FAO, market boards, mobile surveys\nTools: Supabase, Shiny, SQL, R, Python\nModels: Time series forecasting, anomaly detection, price elasticity modeling"
+  },
+  {
+    "objectID": "market_intelligence.html#whats-next",
+    "href": "market_intelligence.html#whats-next",
+    "title": "Market Intelligence",
+    "section": "🚀 What’s Next?",
+    "text": "🚀 What’s Next?\nWe’re building a regional market intelligence dashboard with: - Interactive price maps - Demand heatmaps by crop and county - Alerts for price volatility and trade opportunities\nWant to pilot this in your cooperative or county? Contact us"
+  },
+  {
+    "objectID": "about.html#farmer-centered-tools",
+    "href": "about.html#farmer-centered-tools",
+    "title": "About",
+    "section": "",
+    "text": "AgriTech begins at the farm level with tools that empower individual farmers through adaptive learning. Mobile services like:-\n- Price Alerts, Weather Forecasts, and Crop Diagnosis use real-time data and AI to guide decisions—learning from user behavior and local conditions.\n- Platforms for  Farm Records and Finance Access - Tailorered insights to individual cropping patterns and repayment histories. - Peer-to-peer networks and peer learning or collaboration ensuring farmers receive relevant, timely advice."
+  },
+  {
+    "objectID": "about.html#market-intelligence",
+    "href": "about.html#market-intelligence",
+    "title": "About",
+    "section": "🧠 Market Intelligence",
+    "text": "🧠 Market Intelligence\n\n Group Intelligence\n\nCredit Scoring — Adaptive models that incorporate behavioral nudges and repayment patterns.\nYield Forecasting — Group-level predictions that refine with each harvest and input cycle.\nSMS Nudges — Messaging that evolves based on response rates and seasonal timing.\n\n\n\n Research & Trials\n\nAI Training — Models that continuously learn from farmer-submitted data and extension feedback.\nKnowledge Digitization — NLP systems that refine indigenous knowledge classification over time.\nDemand Mapping — Urban consumption trends that adjust based on retail feedback and price shifts.\nHarvest Forecasting — Models that improve with each season’s actual harvest data."
+  },
+  {
+    "objectID": "about.html#landscape-intelligence",
+    "href": "about.html#landscape-intelligence",
+    "title": "About",
+    "section": "🗺️ Landscape Intelligence",
+    "text": "🗺️ Landscape Intelligence\nAt the regional level, geospatial tools provide adaptive insights for land use and market linkage. - Soil Health Mapping, Climate Risk Detection, and Crop Suitability Models refine their outputs as satellite, drone, and farmer-reported data accumulate. - Market systems like Harvest Forecasting, Demand Mapping, and Smart Routing to optimize aggregation, reduce waste, and respond to dynamic market conditions."
+  },
+  {
+    "objectID": "2-digital_solutions.html",
+    "href": "2-digital_solutions.html",
+    "title": "Digital Solutions for Farmers",
+    "section": "",
+    "text": "Digital tools are transforming agriculture across Western Kenya. By combining mobile technology, AI, and data platforms, we empower farmers to make smarter decisions, reduce risk, and increase productivity."
+  },
+  {
+    "objectID": "2-digital_solutions.html#overview",
+    "href": "2-digital_solutions.html#overview",
+    "title": "Digital Solutions for Farmers",
+    "section": "",
+    "text": "Digital tools are transforming agriculture across Western Kenya. By combining mobile technology, AI, and data platforms, we empower farmers to make smarter decisions, reduce risk, and increase productivity."
+  },
+  {
+    "objectID": "2-digital_solutions.html#mobile-apps-for-farmers",
+    "href": "2-digital_solutions.html#mobile-apps-for-farmers",
+    "title": "Digital Solutions for Farmers",
+    "section": "📱 Mobile Apps for Farmers",
+    "text": "📱 Mobile Apps for Farmers\n\n Market Price Alerts\nReal-time updates on commodity prices help farmers: - Choose optimal selling times - Avoid middlemen exploitation - Coordinate with cooperatives for bulk sales\n\n\n Weather Forecasts\nHyperlocal forecasts enable: - Timely planting and harvesting - Risk reduction from floods or droughts - Planning irrigation and input use\n\n\n Crop Disease Detection\nAI-powered image recognition allows farmers to: - Snap photos of affected crops - Receive instant diagnosis and treatment tips - Share findings with extension officers"
+  },
+  {
+    "objectID": "2-digital_solutions.html#farmer-data-platforms",
+    "href": "2-digital_solutions.html#farmer-data-platforms",
+    "title": "Digital Solutions for Farmers",
+    "section": "🧮 Farmer Data Platforms",
+    "text": "🧮 Farmer Data Platforms\n\n Farm Productivity Tracking\nTrack inputs, yields, and seasonal trends to: - Benchmark performance - Identify inefficiencies - Plan future investments\n\n\n Access to Financial Services\nLink farmers to: - Microfinance institutions - Crop insurance providers - Digital wallets and payment systems\n\n\n Community Knowledge Sharing\nEnable peer-to-peer learning through: - Success stories and case studies - Localized best practices - Farmer forums and WhatsApp groups"
+  },
+  {
+    "objectID": "2-digital_solutions.html#technical-architecture-optional-section",
+    "href": "2-digital_solutions.html#technical-architecture-optional-section",
+    "title": "Digital Solutions for Farmers",
+    "section": "🛠️ Technical Architecture (Optional Section)",
+    "text": "🛠️ Technical Architecture (Optional Section)\nIf you want to include backend details: - Built with Supabase for secure data storage - Shiny dashboards for real-time analytics - Leaflet maps for geospatial overlays - SQL views for lifecycle tracking and aggregation"
+  },
+  {
+    "objectID": "2-digital_solutions.html#whats-next",
+    "href": "2-digital_solutions.html#whats-next",
+    "title": "Digital Solutions for Farmers",
+    "section": "🚀 What’s Next?",
+    "text": "🚀 What’s Next?\nWe’re expanding these tools to include: - Livestock health monitoring - Aquaculture sensors - AI-driven credit scoring for SACCOs\nWant to collaborate or pilot a solution in your county? Contact us"
+  },
+  {
+    "objectID": "0_about.html",
+    "href": "0_about.html",
+    "title": "About",
+    "section": "",
+    "text": "Price Alerts — Real-time updates that learn from market behavior and farmer preferences.\nWeather Forecasts — Hyperlocal predictions that adapt to shifting climate patterns and planting cycles.\nCrop Diagnosis — AI models that improve with each image submitted, learning from local disease variants.\n\n\n\n\n\nProductivity Logs — Personalized dashboards that adapt to each farmer’s cropping history and input use.\nMicrofinance Access — Credit scoring models that evolve based on repayment behavior and group dynamics.\nCommunity Sharing — Peer networks that surface relevant tips based on location, crop, and season."
+  },
+  {
+    "objectID": "0_about.html#farmer-centered-tools",
+    "href": "0_about.html#farmer-centered-tools",
+    "title": "About",
+    "section": "",
+    "text": "Price Alerts — Real-time updates that learn from market behavior and farmer preferences.\nWeather Forecasts — Hyperlocal predictions that adapt to shifting climate patterns and planting cycles.\nCrop Diagnosis — AI models that improve with each image submitted, learning from local disease variants.\n\n\n\n\n\nProductivity Logs — Personalized dashboards that adapt to each farmer’s cropping history and input use.\nMicrofinance Access — Credit scoring models that evolve based on repayment behavior and group dynamics.\nCommunity Sharing — Peer networks that surface relevant tips based on location, crop, and season."
+  },
+  {
+    "objectID": "0_about.html#market-intelligence",
+    "href": "0_about.html#market-intelligence",
+    "title": "About",
+    "section": "🧠 Market Intelligence",
+    "text": "🧠 Market Intelligence\n\n Group Intelligence\n\nCredit Scoring — Adaptive models that incorporate behavioral nudges and repayment patterns.\nYield Forecasting — Group-level predictions that refine with each harvest and input cycle.\nSMS Nudges — Messaging that evolves based on response rates and seasonal timing.\n\n\n\n Research & Trials\n\nAI Training — Models that continuously learn from farmer-submitted data and extension feedback.\nKnowledge Digitization — NLP systems that refine indigenous knowledge classification over time.\nDemand Mapping — Urban consumption trends that adjust based on retail feedback and price shifts.\nHarvest Forecasting — Models that improve with each season’s actual harvest data."
+  },
+  {
+    "objectID": "0_about.html#landscape-intelligence",
+    "href": "0_about.html#landscape-intelligence",
+    "title": "About",
+    "section": "🗺️ Landscape Intelligence",
+    "text": "🗺️ Landscape Intelligence\n\n Land & Climate Mapping\n\nSoil Health Zones — Maps that refine nutrient profiles as new drone and satellite data is collected.\nFlood & Drought Risk — Predictive layers that adjust based on rainfall anomalies and farmer-reported impacts.\nCrop Suitability Models — Adaptive algorithms that learn from trial outcomes and yield data.\n\n\n\n Market Linkage & Logistics\n\nSmart Routing — Transport plans that learn from delays, spoilage rates, and road conditions.\nAdaptive Trials — Experimental designs that evolve based on zone-specific performance and farmer input.\n\n\n\n Livestock & Aquaculture\n\nDisease Detection — AI that improves with local image/audio samples and vet feedback.\nIoT Monitoring — Sensor systems that adjust thresholds based on historical water and growth data."
+  },
+  {
+    "objectID": "about.html#cooperative-extension-support",
+    "href": "about.html#cooperative-extension-support",
+    "title": "About",
+    "section": "🧠 Cooperative & Extension Support",
+    "text": "🧠 Cooperative & Extension Support\nGroup-level intelligence amplifies impact through adaptive systems that support SACCOs, cooperatives, and extension teams. 🧮 Credit Scoring and 📈 Yield Forecasting models evolve with repayment behavior and seasonal performance, while 📲 SMS Nudges adjust based on engagement patterns. In livestock and aquaculture, 🐄 Disease Detection and 🌊 IoT Monitoring improve with local samples and sensor feedback. Finally, 🔬 Research & Trials use adaptive learning to train AI on indigenous knowledge, refine interventions across zones, and ensure that innovations remain locally grounded and continuously validated."
+  },
+  {
+    "objectID": "digital_tools.html",
+    "href": "digital_tools.html",
+    "title": "Digital Tools",
+    "section": "",
+    "text": "Digital tools are transforming agriculture across Western Kenya. By combining mobile technology, AI, and data platforms, we empower farmers to make smarter decisions, reduce risk, and increase productivity."
+  },
+  {
+    "objectID": "digital_tools.html#overview",
+    "href": "digital_tools.html#overview",
+    "title": "Digital Tools",
+    "section": "",
+    "text": "Digital tools are transforming agriculture across Western Kenya. By combining mobile technology, AI, and data platforms, we empower farmers to make smarter decisions, reduce risk, and increase productivity."
+  },
+  {
+    "objectID": "digital_tools.html#mobile-apps-for-farmers",
+    "href": "digital_tools.html#mobile-apps-for-farmers",
+    "title": "Digital Tools",
+    "section": "Mobile Apps for Farmers",
+    "text": "Mobile Apps for Farmers\n\n Market Price Alerts\nReal-time updates on commodity prices help farmers: - Choose optimal selling times - Avoid middlemen exploitation - Coordinate with cooperatives for bulk sales\n\n\n Weather Forecasts\nHyperlocal forecasts enable: - Timely planting and harvesting - Risk reduction from floods or droughts - Planning irrigation and input use\n\n\n Crop Disease Detection\nAI-powered image recognition allows farmers to: - Snap photos of affected crops - Receive instant diagnosis and treatment tips - Share findings with extension officers"
+  },
+  {
+    "objectID": "digital_tools.html#farmer-data-platforms",
+    "href": "digital_tools.html#farmer-data-platforms",
+    "title": "Digital Tools",
+    "section": "Farmer Data Platforms",
+    "text": "Farmer Data Platforms\n\n Farm Productivity Tracking\nTrack inputs, yields, and seasonal trends to: - Benchmark performance - Identify inefficiencies - Plan future investments\n\n\n Access to Financial Services\nLink farmers to: - Microfinance institutions - Crop insurance providers - Digital wallets and payment systems\n\n\n Community Knowledge Sharing\nEnable peer-to-peer learning through: - Success stories and case studies - Localized best practices - Farmer forums and WhatsApp groups\n\nContact us"
+  },
+  {
+    "objectID": "about.html#mission",
+    "href": "about.html#mission",
+    "title": "About",
+    "section": "Mission",
+    "text": "Mission\nTo equip farmers and agricultural networks with intelligent, locally grounded tools that drive productivity, sustainability, and inclusive growth."
+  },
+  {
+    "objectID": "about.html#vision",
+    "href": "about.html#vision",
+    "title": "About",
+    "section": "Vision",
+    "text": "Vision\nA thriving agricultural ecosystem where every decision—from farm to policy—is guided by real-time data, community intelligence, and regional relevance."
+  },
+  {
+    "objectID": "about.html#core-values",
+    "href": "about.html#core-values",
+    "title": "About",
+    "section": "Core Values",
+    "text": "Core Values\n\nFarmer-Centered Design: Prioritizing usability, accessibility, and impact at the farm level.\n\nEvidence-Driven Innovation: Evolving tools through data, feedback, and continuous learning.\n\nLocal Relevance: Integrating indigenous knowledge, regional context, and stakeholder collaboration.\n\nTransparency & Trust: Building systems that are clear, accountable, and community-validated.\n\nScalable Impact: Designing for growth and adaptability across all levels."
+  },
+  {
+    "objectID": "about.html#our-approach",
+    "href": "about.html#our-approach",
+    "title": "About",
+    "section": "Our Approach",
+    "text": "Our Approach\n\nFarmer-Centered Tools\nReal-time price alerts, crop diagnostics, finance access, and peer networks help farmers make smarter decisions and collaborate effectively. Market tools like harvest forecasting and smart routing reduce waste and improve planning.\n\n\nMarket Intelligence\nFor cooperatives and SACCOs, we offer credit scoring, yield forecasting, SMS updates, and localized research—amplifying impact through community feedback and adaptive systems.\n\n\nLandscape Intelligence\nGeospatial tools support land use planning and investment decisions. Soil health maps, climate risk models, and disease detection evolve with satellite, drone, and farmer-reported data."
+  },
+  {
+    "objectID": "about.html#summary",
+    "href": "about.html#summary",
+    "title": "About",
+    "section": "Summary",
+    "text": "Summary\nFrom individual farms to national programs, our solutions combine real-time data, adaptive learning, and community intelligence to create a resilient, efficient, and farmer-centered agricultural ecosystem."
+  },
+  {
+    "objectID": "about.html#about-us",
+    "href": "about.html#about-us",
+    "title": "About",
+    "section": "",
+    "text": "We design adaptive, data-driven tools that empower farmers, cooperatives, and governments to build resilient agricultural systems."
+  }
+]

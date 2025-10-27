@@ -1,0 +1,26 @@
+.fa-icon {
+  color: #38a169;
+  margin-right: 6px;
+}
+/* Fix the header at the top */
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Add padding to body so content doesn't hide under header */
+body {
+  padding-top: 80px; /* Adjust based on header height */
+}
+
+.carousel-item img {
+  height: 500px;
+  #rotating-images img {
+  transition: opacity 1s ease-in-out;
+}
+  object-fit: cover;
+}
